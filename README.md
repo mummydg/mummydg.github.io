@@ -1,69 +1,30 @@
-Freshman21
-==========
+# Blog
 
-Freshman21 is a Jekyll blog theme, base on theme [Freshman](http://github.com/yulijia/freshman). 
+This is the third iteration of my blog. I've also written a [detailed meta-post](http://eyeshalfclosed.com/blog/2013/07/30/building-this-blog/) on its construction.
 
-A tribute to WordPress Theme Twenty-Twelve and Twenty-eleven.
+## Powered By
 
-Enjoy.
+This is now powered by Jekyll, and auto-built and hosted on Github pages. Previously, I've tried:
 
+   * [Wordpress.com](http://wordpress.com/): See my [old blog](http://halfclosed.wordpress.com/).
+   * [nanoc](http://nanoc.stoneship.org): See my [nanoc blog](http://emaadmanzoor.github.io/eyeshalfclosed/blog/).
 
-![Screen](http://i.imgur.com/oSp7kacl.png)
+## Design
 
-### Version 2.1 update 2016.06.06
+The theme this blog wears is hand-crafted; I found it way easier than adapting someone else's theme.
 
-- master branch: the simplest template, original version with
-	* Open Graph META Tags
-	* Microdata(schema.org)
+Some of the themes I considered before rolling my own are:
 
-- gh-pages branch: master branch with 
+   * [Minimal Mistakes](http://mademistakes.com/articles/minimal-mistakes-jekyll-theme.html): This is a beautiful theme by Michael Rose, but the code presented too great a learning curve.
+   * [So Simple](http://mademistakes.com/articles/so-simple-jekyll-theme.html): Another beautiful theme by Michael Rose, with the same problem as above.
+   * [Greyshade](http://shashankmehta.in/archive/2012/greyshade.html): A Medium-esque Octopress theme.
+   * [Left](http://zachholman.com/posts/left/): A clean, white Jekyll theme.
 
-	* [google analytics js template](https://github.com/yulijia/freshman21/blob/gh-pages/_includes/google_analytics.js)
-        * [BackToTop js script](https://github.com/yulijia/freshman21/tree/gh-pages/js)
-        * <q>readmore</q> module
-        * [keyboard shortcuts for pagination](http://yulijia.net/freshman21/news/2016/05/24/new-features.html)
-	* font awesome icon
-	* [Google search](https://github.com/yulijia/freshman21/blob/gh-pages/_includes/google_search.js)
+The design has some key influencers:
 
-Clone master branch: 
-
-` git clone https://github.com/yulijia/freshman21.git -b master --single-branch`
-
-Clone gh-pages branch: 
-
-`git clone https://github.com/yulijia/freshman21.git -b gh-pages --single-branch`
-
-
-### A Summary of Features
-
-- Provide single column and two columns layout
-- Powerful configure file
-- Comments by Disqus
-- Support LaTeX (by MathJax)
-- Syntax highlighting
-- Multiple Languages support 
-    * English
-    * Chinese
-    * Japanese (Contributed by [kokeiro](https://github.com/kokeiro001))
-    * Polish (Contributed by [Derson5](https://github.com/Derson5))
-    * Korean (Contributed by [ulgoon](https://github.com/ulgoon))
-    * Russian (Contributed by [alexeyev](https://github.com/alexeyev))
-
-### How to install this theme?
-
-```
-# please make sure you have already installed git tools and ruby tools(gem)
-$ gem install sass
-$ gem install jekyll
-$ git clone https://github.com/yulijia/freshman21.git
-$ mv freshman21/ yourblogname.github.io/
-
-```
-
-### Demo
-
-Single column, please see [my own blog](http://yulijia.net/en/)
-
-Two columns, please see the [theme website](http://yulijia.net/freshman21/)
-
-
+   * [The PureCSS Blog Layout](http://purecss.io/layouts/blog/): PureCSS also forms the backbone of this blog.
+   * [Medium.com](http://medium.com): Particularly their layout for an individual post.
+   * [Aaron Moodie's Blog](http://aaronmoodie.com/): Follows a Tumble-log style, with different post types.
+   * [mnmlist](http://mnmlist.com/): An inspiration for life too.
+   
+I also use icons from [FontAwesome](http://fortawesome.github.io/Font-Awesome/icons/).
