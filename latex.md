@@ -9,10 +9,10 @@ permalink: /latex/
 Is test of Latex
 
 
-\(documentclass[10pt]{article})
 
-$$ x^2 $$
 
-\(\end{document})
+$$ x^2 + x^3 + x^4_8 $$
+
+
 
 
