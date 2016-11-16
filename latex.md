@@ -8,10 +8,11 @@ permalink: /latex/
 
 Is test of Latex
 
-\\[
 
+\documentclass[10pt]{article}
 
 $$ x^2 $$
 
+\end{document}
 
-\\]
+
