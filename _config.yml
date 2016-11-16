@@ -18,8 +18,8 @@ avatar: https://avatars3.githubusercontent.com/u/10223529?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: mummy@wisc.edu
-  facebook:
+  email: david@dgmummy.com
+  facebook: david.mummy
   flickr:
   github: mummydg
   instagram:
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-87520706-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
