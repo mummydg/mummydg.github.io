@@ -11,3 +11,7 @@ permalink: /cv/
 </head>
 
 This is just a test
+
+\\[ \frac{1}{n^{2}} \\]
+
+LaTEX RULESSSSSSSSS
