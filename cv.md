@@ -4,5 +4,5 @@ permalink: /cv/
 ---
 
 <center>
-<iframe src="{{ site.baseurl }}/pdfs/mummy_cv_web.pdf" width="80%" height="500px">&nbsp;</iframe>
+<iframe src="{{ site.baseurl }}/pdfs/mummy_cv_web.pdf" width="85%" height="600px">&nbsp;</iframe>
 </center>
