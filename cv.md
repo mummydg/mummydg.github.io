@@ -415,4 +415,4 @@ Abstract Awards
 
  \\]
 
-LaTEX RULESSSSSSSSS
+LaTEX rules
