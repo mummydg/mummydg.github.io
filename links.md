@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Links
-permalink: /links/
+title: Research
+permalink: /research/
 ---
 
-### Mentors
-
-### Colleagues
-
-### Collaborators
+### Hyperpolarized Gas Imaging
