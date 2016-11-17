@@ -1,12 +1,9 @@
 ---
 layout: post
-title: We are live 
+title: Go-Live
 ---
 
-Well hello out there in internet-land! This, my personal home page, just went live and is currently under construction. 
-
-Check back soon for more about my research, CV, and favorite kinds of sandwiches.
-
+This is my new home page for my research work and other useful info. Check back soon for additional content. 
 
 
 
