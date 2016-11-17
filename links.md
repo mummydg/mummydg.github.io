@@ -4,12 +4,8 @@ title: Links
 permalink: /links/
 ---
 
-I am of slightly above average height
+### Mentors
 
-### More Information
+### Colleagues
 
-I have never owned a parakeet
-
-### Contact me
-
-[david@dgmummy.com](mailto:david@dgmummy)
+### Collaborators
