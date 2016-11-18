@@ -1,17 +1,9 @@
 ---
 layout: post
-title: Go-Live
+title: Going Live
 ---
 
-This is my new home page for my research work and other useful info. Check back soon for additional content. 
-
-Testing testing add more testing
-
-testing text 1`2843
-fo
-
-
-lorem ipsum whatever
+This is my new home page for my research work and other useful info. It's still under construction so please check back soon for additional content.  
 
 
 
