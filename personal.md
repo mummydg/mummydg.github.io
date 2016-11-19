@@ -4,12 +4,8 @@ title: Personal
 permalink: /personal/
 ---
 
-I am of slightly above average height
+I have spent most of my life in the Seattle area and moved to Wisconsin for grad school. In my spare time, I play softball, golf, follow the Seattle Mariners, and am an aspiring yet inept second violin in the <a href="http://www.madisoncommunityorchestra.org/">Madison Community Orchestra.</a>.
 
-### More Information
-
-I have never owned a parakeet
-
-### Contact me
+### Contact Me: 
 
 [david@dgmummy.com](mailto:david@dgmummy)
