@@ -7,10 +7,10 @@ permalink: /research/
 
 My research focus is on applications of hyperpolarized helium-3 MRI in conjunction with CT in asthma. I am interested on how biomarkers derived by means these imaging modalities are related to conventional measurements of lung function and to clinical outcomes in asthma.
 
-I'll be posting more shortly.
+My ORCID is <a href="http://orcid.org/0000-0001-7885-109X">0000-0001-7885-109X</a>
 
 
-### Questions, comments, lauding: 
+### Questions, comments, lauding:
 
 
 {% if page.comments %}
