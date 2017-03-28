@@ -11,4 +11,4 @@ My ORCID is <a href="http://orcid.org/0000-0001-7885-109X">0000-0001-7885-109X</
 
 <h2>Miscellany</h2>
 
-Why does sampling interval in k-space determine FOV? Find out <a href="{{ site.baseurl }}/pdfs/k_space_fov.pdf">here</a>.
+Why does sampling interval in k-space determine FOV? My sketch <a href="{{ site.baseurl }}/pdfs/k_space_FOV.pdf">here</a>.
