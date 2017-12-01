@@ -5,9 +5,9 @@ comments: true
 permalink: /personal/
 ---
 
-I have spent most of my life in the Seattle area and moved to Wisconsin for grad school. In my spare time, I play softball, golf, and am an aspiring yet inept second violin in the <a href="http://www.madisoncommunityorchestra.org/">Madison Community Orchestra</a>.
+I have spent most of my life in the Seattle area and moved to Wisconsin for grad school. In my spare time, I play softball, golf, three kinds of racquet sports, and am an aspiring yet ultimately disappointing violinist.
 
-I am the Forrest Gump of the Seattle Mariners, as I've been lucky enough to be present for The Double, Randy Johnson's 19K game, Ichiro's first hit, and 3 of their 4 no-hitters. I <a href="{{ site.baseurl }}/images/felix_perfect_visitors.jpg">kept score</a> for one of them, and was listening on the radio for the one I missed (Bosio '93).
+I <a href="{{ site.baseurl }}/images/felix_perfect_visitors.jpg">kept score</a> at a perfect game.
 
 ### Contact Me:
 
