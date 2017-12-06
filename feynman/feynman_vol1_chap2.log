@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  5 DEC 2017 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  5 DEC 2017 21:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**feynman_vol2_chap2.tex
-(./feynman_vol2_chap2.tex
+**feynman_vol1_chap2.tex
+(./feynman_vol1_chap2.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
@@ -405,8 +405,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(./feynman_vol2_chap2.aux)
-\openout1 = `feynman_vol2_chap2.aux'.
+No file feynman_vol1_chap2.aux.
+\openout1 = `feynman_vol1_chap2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -421,7 +421,6 @@ LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Try loading font information for U+msa on input line 9.
-
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -440,10 +439,10 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-(./feynman_vol2_chap2.aux) ) 
+(./feynman_vol1_chap2.aux) ) 
 Here is how much of TeX's memory you used:
- 1449 strings out of 493014
- 15539 string characters out of 6133351
+ 1447 strings out of 493014
+ 15493 string characters out of 6133351
  74730 words of memory out of 5000000
  5011 multiletter control sequences out of 15000+600000
  10937 words of font info for 43 fonts, out of 8000000 for 9000
@@ -459,7 +458,7 @@ onts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmti10.pfb>
-Output written on feynman_vol2_chap2.pdf (2 pages, 103608 bytes).
+Output written on feynman_vol1_chap2.pdf (2 pages, 103608 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
