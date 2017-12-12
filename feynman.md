@@ -12,3 +12,5 @@ My goal for 2018 is to work through all three volumes of the Feynman Lectures on
 <a href="{{ site.baseurl}}/feynman/feynman_vol1_chap2.pdf">Chapter 2: Basic Physics</a>
 
 <a href="{{ site.baseurl}}/feynman/feynman_vol1_chap3.pdf">Chapter 3: The Relation of Physics to Other Sciences</a>
+
+<a href="{{ site.baseurl}}/feynman/feynman_vol1_chap4.pdf">Chapter 4: Conservation of Energy</a>
