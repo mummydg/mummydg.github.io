@@ -4,7 +4,7 @@ title: Feynman
 permalink: /feynman/
 ---
 
-My goal for 2018 is to work through all three volumes of the Feynman Lectures on Physics and produce a distilled set of notes, both to aid in understanding and for future reference. You can follow my progress here.
+My goal for 2018 is to work through all three volumes of the Feynman Lectures on Physics and produce a distilled set of notes, both to aid in understanding and for future reference. You can follow along here, and don't hesitate to contact me with any feedback, suggestions, or questions. 
 
 ## Volume 1
 <a href="{{ site.baseurl }}/feynman/feynman_vol1_chap1.pdf">Chapter 1: Atoms in Motion</a>
