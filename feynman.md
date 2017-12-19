@@ -16,3 +16,5 @@ My goal for 2018 is to work through all three volumes of the Feynman Lectures on
 <a href="{{ site.baseurl}}/feynman/feynman_vol1_chap4.pdf">Chapter 4: Conservation of Energy</a>
 
 <a href="{{ site.baseurl}}/feynman/feynman_vol1_chap5.pdf">Chapter 5: Time and Distance</a>
+
+<a href="{{ site.baseurl}}/feynman/feynman_vol1_chap6.pdf">Chapter 6: Probability</a> 
