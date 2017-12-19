@@ -38,7 +38,7 @@ $$ D_{rms} = \sqrt{\left<D^2\right>} = \sqrt{N}
 $$
 Some algebra shows that the number of heads $N_H$ goes as
 $$ N_H - \frac{N}{2} = \frac{D}{2}$$
-and thus the expected rms difference between $N_H$ and its expected value $\frac{N}{2}$ is $\left(N_H - \frac{N}{2}\right)_rms = \frac{1}{2}\sqrt{N}$.
+and thus the expected rms difference between $N_H$ and its expected value $\frac{N}{2}$ is $\left(N_H - \frac{N}{2}\right)_{rms} = \frac{1}{2}\sqrt{N}$.
 We thus expect the ratio of the deviation to the total $N$ $\frac{\sqrt{N}}{2})\frac{1}{n} = \frac{1}{2\sqrt{N}}$ to approach 0 as $N$ gets large -- in other words, the number of heads approaches $0.5$. We can incorporate this into an ``expectation" even for an unfair coin by writing the probability of heads $P(H)$ incorporating a ``fluctuation term" as
 $$ P(H) = \frac{N_H}{N} \pm \frac{1}{2\sqrt{N}} $$ 
 This of course depends on the coin being at least somewhat fair (i.e. $P(H)$ is near $\frac{1}{2}$) since that's where the 2 came from in the first place. \\
@@ -46,9 +46,7 @@ This of course depends on the coin being at least somewhat fair (i.e. $P(H)$ is 
 $$P(x, \Delta x) = p(x) \Delta x. $$ 
 and we can integrate it over some interval ($x_1, x_2$) to sum the infinite ``paths" and determine the likelihood of the deviation occuring over that particular interval. The integral of $p(x)$ over $(-\inf, \inf)$ must of course be $1$. \\
 \indent This particular probability density is a \textit{normal} or \textit{gaussian} probability density:
-$$ p(x) = \frac{1}{\sigma\sqrt{2\pi}}\exp{-x^2/2\sigma^2} $$ with standard deviation $\sigma$; for our case $\sigma = \sqrt{N}$ but more generally $\sigma = \sqrt{N}S_rms$. 
-These probability densities (and the integrations thereof) can be used to describe distributions of velocities of gas particles (more on this later). You can think of these delta intervals of probability densities as the $\delta x$ vs. $\delta p$ etc. presented in the uncertainty equations we saw in previous chapter. When we speak about the components of atoms, we must speak in probability densities. 
-
-
+$$ p(x) = \frac{1}{\sigma\sqrt{2\pi}}\exp{-x^2/2\sigma^2} $$ with standard deviation $\sigma$; for our case $\sigma = \sqrt{N}$ but more generally $\sigma = \sqrt{N}S_{rms}$. \\
+\indent These probability densities (and the integrations thereof) can be used to describe distributions of velocities of gas particles (more on this later). You can think of these delta intervals of probability densities as the $\delta x$ vs. $\delta p$ etc. presented in the uncertainty equations we saw in previous chapter. When we speak about the components of atoms, we must speak in probability densities. 
 
 \end{document}
