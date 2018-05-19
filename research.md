@@ -13,7 +13,7 @@ My ORCID is <a href="http://orcid.org/0000-0001-7885-109X">0000-0001-7885-109X</
 
 <h3>ATS 2018, San Diego CA</h3>
 Poster PDF:<br>
-<a href="{{site.url}}/pdfs/mummy_ats2018_mucus.pdf">CT Mucus Plugs and Ventilation Defects"</a>
+<a href="{{site.url}}/pdfs/mummy_ats2018_mucus.pdf">CT Mucus Plugs and Ventilation Defects</a>
 
 <h3>ATS 2017, Washington DC</h3>
 Poster PDFs:<br>
