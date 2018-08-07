@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: MRI of the Lung -- Book chapter on asthma
+title: "MRI of the Lung" 2nd edition
 ---
 
 Good news, everybody! The 2nd edition of the Springer textbook "MRI of the Lung" is now in print, and I'm somehow first author on the chapter on asthma.
