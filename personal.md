@@ -10,9 +10,11 @@ I have spent most of my life in the Seattle area and moved to Wisconsin for grad
 
 Here is my <a href="{{ site.baseurl }}/images/felix_perfect_visitors.jpg">scorecard</a> from Felix Hernandez's perfect game in 2012.
 
-Check out what I'm reading now on <a href = "bit.ly/2MY7sMM">Goodreads</a>
+I read books: <a href = "bit.ly/2MY7sMM">Goodreads</a>
+And sometimes watch movies: <a href = "http://letterboxd.com/davidmummy">Letterboxd</a>
 
-I play a lot of online <a href ="https://lichess.org/@/mummydg">chess</a>
+
+I'll happily play you in online <a href ="https://lichess.org/@/mummydg">chess</a>
 <br>
 
 ### Contact Me:
