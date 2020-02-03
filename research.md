@@ -7,6 +7,8 @@ permalink: /research/
 
 My ORCID is <a href="http://orcid.org/0000-0001-7885-109X">0000-0001-7885-109X</a>
 
+I publish a weekly round-up of new articles and news items in the functional lung imaging community. You can subscribe <a href = "https://tinyletter.com/lungimaging">here</a>. 
+
 <h2>Conferences</h2>
 
 <h3>IWPFI 2019, New Orleans, LA</h3>

@@ -5,9 +5,13 @@ permalink: /about/
 ---
 
 <img src = "~/images/hiking.png" align="left">
-I am a fourth-year graduate student. I grew up in Seattle. I like to golf, read, and play softball in my spare time, and am an aspiring yet inept second violin in the Madison Community Orchestra.  
+I am a post-doctoral research associate at Duke. I grew up in Seattle, attended Whitman College in Walla Walla, WA*, and did my graduate work at the University of Wisconsin -- Madison.
 
-I am the Forrest Gump of the Seattle Mariners, as I've been lucky enough to be present for The Double, Randy Johnson's 19K game, Ichiro's first hit, and 3 of their 4 no-hitters. I <a href=""{{ site.baseurl }}/images/felix_perfect_visitors.jpg">kept score</a> for one of them, and was listening on the radio for the one I missed (Bosio '93).
+My hobbies include tennis, languages, playing baseball & softball, watching MLB and the Carolina Hurricanes, talking about electric cars, and playing that spelling bee game on the NYT app.
+
+I have an ever-growing <a href="https://open.spotify.com/playlist/2SLqGJgTeSdgfPUCh9K5ml?si=_o68yjrDT5e5WyzfQVoXXA">old-time-style country music playlist</a> on Spotify.
+
+*The Town So Nice They Named It Twice
 
 ### Contact me
 
