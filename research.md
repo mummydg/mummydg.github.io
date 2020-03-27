@@ -7,7 +7,9 @@ permalink: /research/
 
 My ORCID is <a href="http://orcid.org/0000-0001-7885-109X">0000-0001-7885-109X</a>
 
-I publish a weekly round-up of new articles and news items in the functional lung imaging community. You can subscribe <a href = "https://tinyletter.com/lungimaging">here</a>. 
+I publish a weekly round-up of new articles and news items in the functional lung imaging community. You can subscribe <a href = "https://tinyletter.com/lungimaging">here</a>.
+
+I'm also working on a <a href="{{site.url}}/polarizers">map of all labs doing 129Xe lung imaging</a>. 
 
 <h2>Conferences</h2>
 
