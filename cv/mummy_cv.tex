@@ -35,19 +35,20 @@
 % (thanks to natbib for inspiration)
 \makeatletter
 \newlength{\bibhang}
-\setlength{\bibhang}{1em} %1em}
+\setlength{\bibhang}{0em} %1em}
 \newlength{\bibsep}
  {\@listi \global\bibsep\itemsep \global\advance\bibsep by\parsep}
 \newenvironment{bibsection}%
         {\begin{enumerate}{}{%
 %        {\begin{list}{}{%
        \setlength{\leftmargin}{\bibhang}%
+     
        \setlength{\itemindent}{-\leftmargin}%
        \setlength{\itemsep}{\bibsep}%
        \setlength{\parsep}{\z@}%
         \setlength{\partopsep}{0pt}%
         \setlength{\topsep}{0pt}}}
-        {\end{enumerate}\vspace{-.6\baselineskip}}
+        {\end{enumerate}\vspace{-.1\baselineskip}}
 %        {\end{list}\vspace{-.6\baselineskip}}
 \makeatother
 
@@ -81,9 +82,9 @@
 %% Use these lines for letter-sized paper
 \usepackage[paper=letterpaper,
             %includefoot, % Uncomment to put page number above margin
-            marginparwidth=1.2in,     % Length of section titles
-            marginparsep=.05in,       % Space between titles and text
-            margin=1in,               % 1 inch margins
+            marginparwidth=1.1in,     % Length of section titles
+            marginparsep=.03in,       % Space between titles and text
+            margin=0.8in,               % 1 inch margins
             includemp]{geometry}
 
 %% Use these lines for A4-sized paper
@@ -228,7 +229,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%% Begin CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
-\makeheading{David G. Mummy, Ph.D.}
+\begin{center}
+{\textbf CURRICULUM VITAE} \\
+David G. Mummy, Ph.D. \\
+\end{center}
+
+\textbf{Primary Appointment:} Dept. of Radiology \\
+\textbf{Present Rank/Title:} Post-Doctoral Research Associate
+
 
 \section{Contact Information}
 
@@ -238,16 +246,20 @@
 % ALSO: \rcollength is the width of the right column of the table
 %       (adjust it to your liking; default is 1.85in).
 %
-\newlength{\rcollength}\setlength{\rcollength}{1.4in}%
+\newlength{\rcollength}\setlength{\rcollength}{1.85in}%
 %
 \begin{tabular}[t]{@{}p{\textwidth-\rcollength}p{\rcollength}}
 %\href{https://www.medphysics.wisc.edu///}%
 %     {Department of Medical Physics} & \\
 %\href{http://www.wisc.edu/}{The University of Wisconsin - Madison}
-2801 Lexington St. & (425) 533-7895 \\
-Durham, NC 27707     & \email{david.mummy@duke.edu}\\
-& \href{http://www.dgmummy.com}{www.dgmummy.com}\\
+3114 Tripoli Dr. & (425) 533-7895 \\
+Durham, NC 27713     & \email{david.mummy@duke.edu}\\
+& \href{http://www.dgmummy.com}{www.dgmummy.com} 
 \end{tabular}
+
+
+ORCiD: \href{https://orcid.org/0000-0001-7885-109X}{0000-0001-7885-109X}
+
 
 %\section{Objective}
 
@@ -256,95 +268,92 @@ Durham, NC 27707     & \email{david.mummy@duke.edu}\\
 %\item More information and auxiliary documents can be found at\\\url{http://www.tedpavlic.com/facjobsearch/}
 %\end{innerlist}
 
-\section{Research Interests and Activities}
-
-My research focuses on applications of hyperpolarized gas MRI and pulmonary CT to advance understanding of regional aspects of structure-function in lung disease. These advanced imaging techniques can also be used to derive biomarkers for the purposes of personalized therapy and evaluation of clinical outcomes. \\
-
-I am a referee for \textit{Radiology}.
-
-\section{Research Experience}
-
-\textbf{Post-Doctoral Research Associate} \hfill {Feb 2019 - Present}
-\begin{innerlist}
-\item[] 
-	Department of Radiology and Center for In Vivo Microscopy\\
-	Duke University\\
-	Supervisor: Bastiaan Driehuys, Ph.D
-\end{innerlist}
-
-\textbf{Research Assistant} \hfill {September 2013 - Jan 2019}
-\begin{innerlist}
-
-\item[] Department of Medical Physics,\\
-        University of Wisconsin-Madison\\
-        Supervisor: Sean B. Fain, Ph.D
-\end{innerlist}
-
 
 \section{Education}
 
 \href{http://www.wisc.edu}{\textbf{University of Wisconsin}},
 Madison, WI
-\begin{outerlist}
+\begin{innerlist}
 \item[] Ph.D.,
         \href{http://www.engr.wisc.edu/departments/bme/}
-             {Biomedical Engineering}.
-           December 2018.
-        \begin{innerlist}
-        \item Thesis Topic: \emph{Defining Asthma Phenotypes in Asthma Using CT and Hyperpolarized Gas MRI}
-        \item Advisor:
-              \href{https://www.medphysics.wisc.edu/directory/fain.php///}
-                   {Sean B. Fain, Ph.D}
-              \end{innerlist}
+             {Biomedical Engineering} (2018)     
 \item[] M.S.,
         \href{http://www.engr.wisc.edu/departments/bme/}
-             {Biomedical Engineering},
-             January 2015
-        
-\end{outerlist}
-\vspace{.1in}
+             {Biomedical Engineering} (2015)
+\end{innerlist}
 \href{http://www.seattleu.edu}{\textbf{Seattle University}},
 Seattle, WA
-\begin{outerlist}
-\item[] M.B.A., June 2011
-
-\end{outerlist}
-\vspace{.1in}
+\begin{innerlist}
+\item[] M.B.A. (2011)
+\end{innerlist}
 \href{http://www.whitman.edu}{\textbf{Whitman College}},
 Walla Walla, WA
-\begin{outerlist}
-\item[] B.A., {Mathematics, Physics}, May 2006
-
-\end{outerlist}
-
-
-\section{Previous Employment}
-
-\textbf{Statistical Analyst Programmer} \hfill {2011 - 2013}
 \begin{innerlist}
-\item[] Fred Hutchinson Cancer Research Center \\
-		Seattle, WA
+\item[] B.A., {Mathematics, Physics} (2006)
 \end{innerlist}
 
+\section{Research Experience}
+
+\textbf{Post-Doctoral Research Associate, Duke University} \hfill {Feb 2019 - Present}
+\begin{innerlist}
+\item[] 
+	Department of Radiology and Center for In Vivo Microscopy\\
+	Supervisor: Bastiaan Driehuys, Ph.D
+\end{innerlist}
+
+\textbf{Research Assistant, University of Wisconsin-Madison} \hfill {Sep 2013 - Jan 2019}
+\begin{innerlist}
+\item[] Department of Medical Physics\\
+    Supervisor: Sean B. Fain, Ph.D
+\end{innerlist}
+
+\section{Industry Experience}
+\textbf{Scientific Consultant} \hfill {Jan 2020 - Present}
+\begin{innerlist}
+\item[] Polarean Imaging plc, Durham, NC
+\end{innerlist}
+\textbf{Statistical Analyst Programmer} \hfill {2011 - 2013}
+\begin{innerlist}
+\item[] Fred Hutchinson Cancer Research Center, Seattle, WA
+\end{innerlist}
 \textbf{Flight Test Software Analyst} \hfill {2008 - 2011}
 \begin{innerlist}
-\item[] The Boeing Company \\
-		Seattle, WA
+\item[] The Boeing Company, Seattle, WA
+\end{innerlist}
+
+% Add a little space to nudge next ``Conference Publications'' marginpar
+% down to make room for tall ``Submitted Journal Publications''
+% marginpar. If there are enough submitted journal publications, this
+% space will not be needed (and should be removed).
+%\vspace{0.1in}
+
+\halfblankline
+
+\section{Activities and Service}
+\begin{innerlist}
+\item ISMRM Hyperpolarized Media Study Group: Trainee Representative, 2020-Present 
+\item ATS Respiratory Structure and Function (RSF) Assembly Web Committee, 2019-present
+\item Peer Reviewer: {\em Magnetic Resonance in Medicine}, {\em Radiology}, {\em Radiology: Artificial\\ Intelligence}, and {\em Radiology: Cardiothoracic Imaging}
 \end{innerlist}
 
 \section{Publications}
-
-\begin{innerlist}
-\item Jessica M. Oakes, {\bf David Mummy}, Kamran Poorbahrami, Wei Zha, and Sean B. Fain. ``Patient-Specific Computational Simulations of Hyperpolarized 3He MRI Ventilation Defects in Healthy and Asthmatic Subjects". IEEE Transactions in Biomedical Engineering [in press].
+\begin{enumerate}
+\item {\bf David G. Mummy}, Elianna A. Bier, Ziyi Wang, Jennifer Korzekwinski, Lake Morrison, Christina Barkauskas, Robert Tighe, Bastiaan Driehuys, Joseph Mammarappallil. ``Quantitative MR Imaging and Spectroscopy of Gas Exchange Abnormalities in Non-Specific Interstitial Pneumonia Using Hyperpolarized 129Xe." [under review, {\em Radiology}]
+\item {\bf David G. Mummy}, Erika M. Coleman, Ziyi Wang, Elianna Bier, Junlan Lu, Bastiaan Driehuys, Yuh-Chin Huang. ``Regional Gas Exchange Measured by 129Xe MRI Before and After Bronchodilator Treatment in Chronic Obstructive Pulmonary Disease." [under review, {\em JMRI}]
+\item {\bf David G. Mummy}, Katherine J. Carey, Michael D. Evans, Loren C. Denlinger, Mark L. Schiebler, Ronald L. Sorkness, Nizar N. Jarjour, and Sean B. Fain. ``Ventilation Defects on Hyperpolarized Helium-3 MRI in Asthma are Predictive of 2-Year Exacerbation Frequency.” Journal of Allergy and Clinical Immunology 164.4 (2020): 831-839, \\doi: 10.1016/j.jaci.2020.02.029.
+\item Jeff Kammerman, Andrew D. Hahn, Robert V. Cadman, Annelise Malkus, {\bf David Mummy}, Sean B. Fain. ``Transverse relaxation rates of pulmonary dissolved-phase Hyperpolarized 129Xe as a biomarker of lung injury in idiopathic pulmonary fibrosis." Magnetic Resonance in Medicine 84.4 (2020): 1857-1867.
+\item {\bf David Mummy}, Bastiaan Driehuys. ``Illuminating Lung Inflammation at the Alveolar Capillary Interface." (Editorial). Journal of Magnetic Resonance Imaging (JMRI): 11 Feb 2020, 51(6):1677-1678. doi: 10.1002/jmri.27086 
+\item Kamran Poorbahrami, {\bf David G. Mummy}, Sean B. Fain, and Jessica M. Oakes. “Patient-specific Modeling of Aerosol Delivery in Healthy and Asthmatic Adults.” Journal of Applied Physiology 127.6 (2019): 1720-1732.
+\item Jessica M. Oakes, {\bf David Mummy}, Kamran Poorbahrami, Wei Zha, and Sean B. Fain. ``Patient-Specific Computational Simulations of Hyperpolarized 3He MRI Ventilation Defects in Healthy and Asthmatic Subjects". IEEE Transactions in Biomedical Engineering, 66.5 (2018): 1318-1327.
 \item Zha, Wei, Stanley J. Kruger, Robert V. Cadman, {\bf David G. Mummy}, Michael D. Evans, Scott K. Nagle, Loren C. Denlinger, Nizar N. Jarjour, Ronald L. Sorkness, and Sean B. Fain. ``Regional Heterogeneity of Lobar Ventilation in Asthma Using Hyperpolarized Helium-3 MRI." Academic Radiology 25, no. 2 (2018): 169-178.
 \item {\bf David G. Mummy}, Stanley J. Kruger, Wei Zha, Ronald L. Sorkness, Nizar N. Jarjour, Mark L. Scheibler, Loren C. Denlinger, Michael D. Evans, Sean B. Fain.``Ventilation defect percent in helium-3 magnetic resonance imaging as a biomarker of severe outcomes in asthma." Journal of Allergy and Clinical Immunology 141.3 (2018). 
-\item E. Adamson, K. Ludwig, {\bf D. Mummy}, S.B. Fain. ``Magnetic resonance imaging with hyperpolarized agents: methods and applications". Physics in Medicine and Biology (2017). doi: 10.1088/1361-6560/aa6be8.
-    \item Wei Zha, David J. Niles, Stanley J. Kruger, Bernard J. Dardzinski, Robert V. Cadman, {\bf David G. Mummy}, Scott K. Nagle, and Sean B. Fain. ``Semiautomated Ventilation Defect Quantification in Exercise-induced Bronchoconstriction Using Hyperpolarized Helium-3 Magnetic Resonance Imaging: A Repeatability Study". Academic Radiology (2016).
+\item E. Adamson, K. Ludwig, {\bf D. Mummy}, S.B. Fain. ``Magnetic resonance imaging with hyper-polarized agents: methods and applications". Physics in Medicine and Biology (2017). doi: 10.1088/1361-6560/aa6be8.
+    \item Wei Zha, David J. Niles, Stanley J. Kruger, Bernard J. Dardzinski, Robert V. Cadman, {\bf David G. Mummy}, Scott K. Nagle, and Sean B. Fain. ``Semiautomated Ventilation Defect Quantification in Exercise-induced Bronchoconstriction Using Hyperpolarized Helium-3 Mag-netic Resonance Imaging: A Repeatability Study". Academic Radiology (2016).
     \item V. Shankaran, {\bf D. Mummy}, L. Koepl, A. Bansal, D. Mirick, E. Yu, R. Morlock, S. Ogale, and S. Ramsey. ``Survival and lifetime costs associated with first-line bevacizumab use in older patients with metastatic colorectal cancer". Oncologist 19:892-899, 2014
     \item V. Shankaran, {\bf D. Mummy}, L. Koepl, D. Blough, Y. M. Yim, E. Yu, S. Ramsey. ``Adverse events associated with Bevacizumab and chemotherapy in older patients with metastatic colorectal cancer". Clin Colorectal Cancer 2013; 12(3): 204–213
 	\item B. Goulart, C. Reyes, C. Fedorenko, {\bf D. Mummy}, S. Satram-Hoang, L. Koepl, D. Blough, S. Ramsey. ``Referral and treatment patterns among patients with stages III and IV non-small cell lung cancer". Journal of Oncology Practice, 9, 42-50. doi:10.1200/JOP.2012.000640
 	\item B. Goulart, M. Bensink, {\bf D. Mummy}, S. Ramsey. ``Lung cancer screening with low-dose computed tomography: costs, national expenditures, and cost-effectiveness". Journal of the National Comprehensive Cancer Network: JNCCN. 01/2012; 10(2): 267-275.
-\end{innerlist}
+\end{enumerate}
 
 
 \section{Book Chapters}
@@ -355,36 +364,48 @@ Walla Walla, WA
   
 \end{innerlist}
 
-% Add a little space to nudge next ``Conference Publications'' marginpar
-% down to make room for tall ``Submitted Journal Publications''
-% marginpar. If there are enough submitted journal publications, this
-% space will not be needed (and should be removed).
-%\vspace{0.1in}
+
+\section{Current Grant \\ Support}
+\textbf{Genentech: Tighe (PI)} \hfill {6/31/2019 - 12/31/2022}\\
+{\em \textsuperscript {129}Xe Imaging Biomarkers for Idiopathic Pulmonary Fibrosis}\\
+This study deploys \textsuperscript {129}Xe gas exchange MRI at baseline, 3 months, 6 months and 12 months in patients starting on treatment with antifibrotic therapies to determine whether \textsuperscript {129}Xe biomarkers at baseline and 3 months predict traditional outcomes at 12 months.\\
+Role: Co-Investigator \\
+ 
+\textbf{Genentech: Driehuys/Huang (PI)} \hfill {9/31/20 - 3/21/23}\\
+{\em \textsuperscript {129}Xe  MRI Assessment of Disease Progression in Patients with COPD Treated with Standard of Care with or without Open-Label Azythromycin to prevent Acute Exacerbations.}\\
+This study will use \textsuperscript {129}Xe gas exchange MRI at baseline, 3 months, 6 months and 12 months to identify imaging biomarkers that predict response to azythromycin. \\
+Role: Co-Investigator, Core Imaging Lab
+
+ 
+\section{Completed Grant \\ Support}
+\textbf{Kaganov Initiative: Mammarappallil (PI)} \hfill {1/31/2019 - 1/30/2020}\\
+{\em Utilization of Hyperpolarized \textsuperscript {129}Xe MRI with Machine Learning to Diagnose Idiopathic Pulmonary Fibrosis} \\
+This project combines \textsuperscript {129}Xe gas exchange MRI with machine learning and transfer learning approaches to distinguish IPF from other fibrotic diseases.\\
+Role: Co-Investigator\\ 
+
+\textbf{United Therapeutics: Rajagopal (PI)} \hfill {6/30/18 - 5/31/20}\\
+{\em Assessing Response to Inhaled Prostacyclin with Hyperpolarized \textsuperscript {129}Xe MRI}\\
+The goals of this project are to determine whether dynamic spectroscopy and \textsuperscript {129}Xe gas exchange MRI can detect both initial response to inhaled Prostacyclin and recovery back to baseline as the drug washes out. \\
+Role: Co-Investigator
+
+
+
+\section{Presentations}
+\begin{innerlist}
+\item International Workshop on Pulmonary Functional Imaging, New Orleans, LA \hfill Oct 2019 
+\item American Thoracic Society International Conference, San Diego, CA \hfill May 2018 
+\item International Society for Magnetic Resonance Imaging, Honolulu, HI \hfill May 2017
+\item American Thoracic Society International Conference, San Francisco, CA \hfill May 2016
+\item Intl. Workshop on Pulmonary Functional Imaging, Edinburgh, Scotland \hfill Sep 2015
+\end{innerlist}
 
 \section{Awards}
 Abstract Awards
 \begin{innerlist}
-\item Summa cum laude abstract \\ International Society for Magnetic Resonance Imaging, \hfill April 2017 \\ Honolulu, HI
-\item Student Prize (North America) \\ International Workshop on Pulmonary Functional Imaging,\hfill Sep 2015
-\\Edinburgh, Scotland
-\item Abstract Scholarship \\ American Thoracic Society International Conference, Denver, CO\hfill Oct 2014\\
+\item Summa cum laude abstract,  ISMRM Honolulu \hfill April 2017 
+\item Student Prize (North America) \\ Intl. Workshop on Pulmonary Functional Imaging, Edinburgh\hfill Sep 2015
+\item Abstract Scholarship, ATS Denver \hfill Oct 2014\\
 \end{innerlist}
-
-\halfblankline
-
-\section{Presentations}
-\begin{innerlist}
-\item American Thoracic Society International Conference \hfill May 2018 \\ San Diego, CA
-\item International Society for Magnetic Resonance Imaging \hfill April 2017 \\ Honolulu, HI
-\item American Thoracic Society International Conference \hfill May 2016
-\\San Francisco, CA
-\item International Workshop on Pulmonary Functional Imaging \hfill Sep 2015
-\\Edinburgh, Scotland
-\end{innerlist}
-
-\halfblankline
-
-
 
 \end{document}
 
