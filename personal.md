@@ -11,7 +11,7 @@ My hobbies include tennis, languages, playing baseball & softball, watching MLB 
 
 I have an ever-growing <a href="https://open.spotify.com/playlist/2SLqGJgTeSdgfPUCh9K5ml?si=_o68yjrDT5e5WyzfQVoXXA">old-time-style country music playlist</a> on Spotify.
 
-Here's my <a href="{{site.url}}/images/Felix_Perfect_Game_Home.jpg">scorecard</a> from Felix Hernandez' perfect game in 2012.
+Here's my <a href="{{site.url}}/images/felix_perfect_visitors.jpg">scorecard</a> from Felix Hernandez' perfect game in 2012.
 
 *The Town So Nice They Named It Twice
 
