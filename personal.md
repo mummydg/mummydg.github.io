@@ -5,14 +5,14 @@ comments: true
 permalink: /personal/
 ---
 
-<img src = "~/images/hiking_small.png" align="left">
+<img src = "{{site.url}}/images/hiking_small.png" align="left">
 I am an assistant professor of Radiology at Duke University. I grew up in Seattle, attended Whitman College in Walla Walla, WA*, and did my graduate work at the University of Wisconsin -- Madison, graduating in 2018. I came to Duke for a post-doc and became faculty in 2021.
 
 My hobbies include tennis, languages, playing baseball & softball, watching MLB and the Carolina Hurricanes, talking about electric cars, and playing every stringed instrument I can get my hands on.
 
 I have an ever-growing <a href="https://open.spotify.com/playlist/2SLqGJgTeSdgfPUCh9K5ml?si=_o68yjrDT5e5WyzfQVoXXA">old-time-style country music playlist</a> on Spotify.
 
-Here's my <a href="~/images/Felix_Perfect_Game_Home.jpg">scorecard</a> from Felix Hernandez' perfect game in 2012.
+Here's my <a href="{{site.url}}/images/Felix_Perfect_Game_Home.jpg">scorecard</a> from Felix Hernandez' perfect game in 2012.
 
 *The Town So Nice They Named It Twice
 
