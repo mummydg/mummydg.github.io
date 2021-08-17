@@ -5,13 +5,11 @@ title: Research
 permalink: /research/
 ---
 
+My research in the <a href="https://sites.duke.edu/driehuyslab/">Driehuys Lab</a> at Duke focuses on clinical applications of hyperpolarized xenon-129 MRI in a range of pulmonary diseases, including COPD, asthma, NSIP, and IPF.
+
 My ORCID is <a href="http://orcid.org/0000-0001-7885-109X">0000-0001-7885-109X</a>
 
-I publish a weekly round-up of new articles and news items in the functional lung imaging community. You can subscribe <a href = "https://tinyletter.com/lungimaging">here</a>.
-
-I'm also working on a <a href="{{site.url}}/polarizers">map of all labs doing 129Xe lung imaging</a>. 
-
-<h2>Conferences</h2>
+<h2>Conference PDFs</h2>
 
 <h3>IWPFI 2019, New Orleans, LA</h3>
 Poster PDF:<br>

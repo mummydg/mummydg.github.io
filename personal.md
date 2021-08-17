@@ -6,7 +6,7 @@ permalink: /personal/
 ---
 
 <img src = "~/images/hiking.png" align="left">
-I am an assistant professor of Radiology at Duke University. I grew up in Seattle, attended Whitman College in Walla Walla, WA*, and did my graduate work at the University of Wisconsin -- Madison.
+I am an assistant professor of Radiology at Duke University. I grew up in Seattle, attended Whitman College in Walla Walla, WA*, and did my graduate work at the University of Wisconsin -- Madison, graduating in 2018. I came to Duke for a post-doc and became faculty in 2021.
 
 My hobbies include tennis, languages, playing baseball & softball, watching MLB and the Carolina Hurricanes, talking about electric cars, and playing every stringed instrument I can get my hands on.
 
