@@ -7,6 +7,9 @@ permalink: /research/
 
 My research in the <a href="https://sites.duke.edu/driehuyslab/">Driehuys Lab</a> at Duke focuses on clinical applications of hyperpolarized xenon-129 MRI in a range of pulmonary diseases, including COPD, asthma, NSIP, and IPF.
 
+Link to my <a href="https://scholars.duke.edu/person/david.mummy">Scholars at Duke Profile</a>
+
+
 My ORCID is <a href="http://orcid.org/0000-0001-7885-109X">0000-0001-7885-109X</a>
 
 <h2>Conference PDFs</h2>
