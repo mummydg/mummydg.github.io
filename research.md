@@ -29,6 +29,9 @@ Poster PDFs:<br>
 <a href="{{site.url}}/pdfs/mummy_ats2017_vasculature.pdf">SVDP and Vasculature</a><br>
 <a href="{{site.url}}/pdfs/mummy_ats2017_bronch.pdf">Wall Thickness and Bronchodilator Response</a>
 
+<h2>Publications</h2>
+<script type="text/javascript" src="https://scholars.duke.edu/widgets/api/v0.9/people/publications/all.js?uri=https://scholars.duke.edu/individual/per0816632&formatting=detailed&style=yes&start=&end="> </script>
+
 <h2>Miscellany</h2>
 
 Why does sampling interval in k-space determine FOV? My sketch <a href="{{ site.baseurl }}/pdfs/k_space_FOV.pdf">here</a>.
