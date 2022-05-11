@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  12 MAY 2021 12:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  10 NOV 2021 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -329,13 +329,13 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 277.
 
-Overfull \hbox (1.39244pt too wide) in paragraph at lines 341--342
+Overfull \hbox (1.39244pt too wide) in paragraph at lines 346--347
 \OT1/cmr/m/n/10 Mu-cus Plugs in Asthma Are As-so-ci-ated with Re-gional Ven-ti-
 la-tion Het-ero-gene-ity on Helium-
  []
 
 
-Overfull \hbox (23.35567pt too wide) in paragraph at lines 343--344
+Overfull \hbox (23.35567pt too wide) in paragraph at lines 350--351
 \OT1/cmr/m/n/10 Christina Barkauskas, Robert Tighe, Bas-ti-aan Driehuys, Joseph
  Mam-marap-pallil. ``Quan-ti-ta-tive
  []
@@ -343,25 +343,25 @@ Overfull \hbox (23.35567pt too wide) in paragraph at lines 343--344
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (5.96838pt too wide) in paragraph at lines 349--350
+Overfull \hbox (5.96838pt too wide) in paragraph at lines 356--357
 []\OT1/cmr/m/n/10 Jeff Kam-mer-man, An-drew D. Hahn, Robert V. Cad-man, An-neli
 se Malkus, \OT1/cmr/bx/n/10 David Mummy\OT1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (7.197pt too wide) in paragraph at lines 352--353
+Overfull \hbox (7.197pt too wide) in paragraph at lines 359--360
 \OT1/cmr/m/n/10 ``Patient-Specific Com-pu-ta-tional Sim-u-la-tions of Hy-per-po
 -lar-ized 3He MRI Ven-ti-la-tion De-fects
  []
 
 
-Overfull \hbox (9.5592pt too wide) in paragraph at lines 356--357
+Overfull \hbox (9.5592pt too wide) in paragraph at lines 363--364
 \OT1/cmr/m/n/10 De-fect Quan-tifi-ca-tion in Exercise-induced Bron-chocon-stric
 -tion Us-ing Hy-per-po-lar-ized Helium-
  []
 
 
-Overfull \hbox (8.67972pt too wide) in paragraph at lines 359--360
+Overfull \hbox (8.67972pt too wide) in paragraph at lines 366--367
 \OT1/cmr/m/n/10 small cell lung can-cer". Jour-nal of On-col-ogy Prac-tice, 9, 
 42-50. doi:10.1200/JOP.2012.000640 
  []
@@ -369,54 +369,61 @@ Overfull \hbox (8.67972pt too wide) in paragraph at lines 359--360
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 373.
+(hyperref)                removing `\\' on input line 380.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--376
+Underfull \hbox (badness 10000) in paragraph at lines 381--383
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--379
+Underfull \hbox (badness 10000) in paragraph at lines 384--386
 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 384.
+(hyperref)                removing `\\' on input line 391.
 
 
-Overfull \hbox (8.40541pt too wide) in paragraph at lines 385--387
+Overfull \hbox (8.40541pt too wide) in paragraph at lines 392--394
 \OT1/cmr/m/n/10 Utilization of Hy-per-po-lar-ized $[]$Xe MRI with Ma-chine Lear
 n-ing to Di-ag-nose Id-io-pathic Pul-monary
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--387
+Underfull \hbox (badness 10000) in paragraph at lines 392--394
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 388--390
+Underfull \hbox (badness 10000) in paragraph at lines 395--397
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 412--413
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
 
  []
 
 
 AED: lastpage setting LastPage
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 415.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 415.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 422.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 422.
  (./mummy_cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 415.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 415.
-Package rerunfilecheck Info: File `mummy_cv.out' has not changed.
-(rerunfilecheck)             Checksum: FD4CAE440677EEC0B9B8A1574879C2A4;527.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 415.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 422.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 422.
+
+
+Package rerunfilecheck Warning: File `mummy_cv.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `mummy_cv.out':
+(rerunfilecheck)             Before: FD4CAE440677EEC0B9B8A1574879C2A4;527
+(rerunfilecheck)             After:  A32E5FF88FA9A9C5E523053ED4B590CA;527.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 422.
  ) 
 Here is how much of TeX's memory you used:
  5781 strings out of 492649
@@ -425,14 +432,14 @@ Here is how much of TeX's memory you used:
  9616 multiletter control sequences out of 15000+600000
  4595 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,13n,43p,426b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,13n,43p,423b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></us
 r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on mummy_cv.pdf (3 pages, 96799 bytes).
+Output written on mummy_cv.pdf (3 pages, 96616 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams

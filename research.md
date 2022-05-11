@@ -12,7 +12,12 @@ Link to my <a href="https://scholars.duke.edu/person/david.mummy">Scholars at Du
 
 My ORCID is <a href="http://orcid.org/0000-0001-7885-109X">0000-0001-7885-109X</a>
 
-<h2>Conference PDFs</h2>
+<h2>Conference Poster PDFs</h2>
+
+<h3>ATS 2022, San Francisco, CA</h3>
+Poster PDFs:<br>
+<a href="{{site.url}}/pdfs/mummy_ats2022_healthy_aging.pdf">Healthy Aging on 129Xe</a><br>
+<a href="{{site.url}}/pdfs/mummy_ats2022_LHcovid.pdf">129Xe of Long-Haul COVID</a><br>
 
 <h3>IWPFI 2019, New Orleans, LA</h3>
 Poster PDF:<br>
